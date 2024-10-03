@@ -25,7 +25,7 @@ public class MatchCards {
     int rows=4;
     int columns=5;
     int cardWidht=90;
-    int cardHeight= 128;
+    int cardHeight= 130;
 
     ArrayList<Card> cardSet; //create a deck of cards
     ImageIcon cardBackImageIcon;
